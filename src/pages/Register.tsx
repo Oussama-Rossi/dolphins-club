@@ -126,12 +126,7 @@ const Register = () => {
                 <SelectTrigger className="border-b-2 border-primary/30">
                   <SelectValue placeholder="اختر الفوج" />
                 </SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="فوج-1">الفوج 1</SelectItem>
-                  <SelectItem value="فوج-2">الفوج 2</SelectItem>
-                  <SelectItem value="فوج-3">الفوج 3</SelectItem>
-                  <SelectItem value="فوج-4">الفوج 4</SelectItem>
-                </SelectContent>
+
               </Select>
             </div>
             <div className="space-y-1.5">
@@ -140,15 +135,7 @@ const Register = () => {
                 <SelectTrigger className="border-b-2 border-primary/30">
                   <SelectValue placeholder="اختر اليوم" />
                 </SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="السبت">السبت</SelectItem>
-                  <SelectItem value="الأحد">الأحد</SelectItem>
-                  <SelectItem value="الإثنين">الإثنين</SelectItem>
-                  <SelectItem value="الثلاثاء">الثلاثاء</SelectItem>
-                  <SelectItem value="الأربعاء">الأربعاء</SelectItem>
-                  <SelectItem value="الخميس">الخميس</SelectItem>
-                  <SelectItem value="الجمعة">الجمعة</SelectItem>
-                </SelectContent>
+               
               </Select>
             </div>
           </div>
