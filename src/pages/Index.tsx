@@ -40,7 +40,7 @@ const Index = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
               { icon: "🏊", title: "تدريب احترافي", desc: "مدربون معتمدون لجميع المستويات" },
-              { icon: "👶", title: "جميع الأعمار", desc: "برامج مخصصة للأطفال والكبار" },
+              { icon: "👶", title: "جميع الأعمار", desc: "برامج مخصصة للأطفال" },
               { icon: "🏆", title: "منافسات", desc: "مشاركة في البطولات الوطنية" },
             ].map((item) => (
               <div key={item.title} className="bg-card rounded-2xl p-6 shadow-md border border-border">
