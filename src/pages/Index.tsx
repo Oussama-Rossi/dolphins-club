@@ -56,7 +56,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="bg-card border-t border-border py-8 px-4 text-center">
         <p className="text-muted-foreground text-sm">
-          📍 حمام دباغ، ولاية قالمة &nbsp;|&nbsp; 📞 للتواصل: اتصل بإدارة النادي
+          📍 حمام دباغ، ولاية قالمة &nbsp;|&nbsp; 📞 0654620449 للتواصل: اتصل بإدارة النادي
         </p>
         <p className="text-muted-foreground text-xs mt-2">
           © {new Date().getFullYear()} نادي الدلافين للسباحة - جميع الحقوق محفوظة
