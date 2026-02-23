@@ -50,19 +50,16 @@ const Register = () => {
               <div className="text-sm leading-[1.4]">
                 <p className="font-semibold">الجمهورية الجزائرية الديمقراطية الشعبية</p>
                 <p className="text-xs text-muted-foreground">
-                  مديرية الشباب والرياضة
+                    مديرية الشباب والرياضة لولاية قالمة
                 </p>
-                <p className="text-xs text-muted-foreground">
-                  نادي الدلافين للسباحة – حمام دباغ
-                </p>
+               
               </div>
-              <div className="text-right text-xs leading-[1.4]">
-                <p className="font-semibold">استمارة تسجيل / انخراط</p>
+              <div className="text-right text-xs leading-[1.4]">  
                 <p className="text-[11px] text-muted-foreground">
-                  الموسم الرياضي: 20&nbsp;&nbsp;/&nbsp;&nbsp;20
+                  الموسم الرياضي: 2026&nbsp;&nbsp;/&nbsp;&nbsp;2025
                 </p>
                 <p className="text-[11px] text-muted-foreground">
-                  رقم الاستمارة: ..............
+                  رقم الاستمارة: ................
                 </p>
               </div>
             </div>
