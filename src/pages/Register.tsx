@@ -48,10 +48,6 @@ className="text-muted-foreground"
 <header className="pb-4 mb-4 border-b border-dashed border-primary/40">
 <div className="flex items-start justify-between gap-4">
 <div className="text-sm leading-[1.4]">
-<p className="font-semibold">الجمهورية الجزائرية الديمقراطية الشعبية</p>
-<p className="text-xs text-muted-foreground">
-مديرية الشباب والرياضة لولاية قالمة
-</p>
 
 </div>
 <div className="text-right text-xs leading-[1.4]">
