@@ -241,7 +241,7 @@ className="mt-1 h-9 border-b-2 border-primary/40 rounded-none bg-transparent foc
 </p>
 
 <div className="flex justify-between mt-3">
-<span>حرّر بـ: حمام دباغ في: ........../........../20....</span>
+<span>حرّر بـ: حمام دباغ في: ........../........../  20....</span>
 <span>إمضاء ولي الأمر: ....................................</span>
 </div>
 </section>
