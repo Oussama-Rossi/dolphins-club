@@ -22,7 +22,7 @@ const Index = () => {
             فرع حمام دباغ
           </p>
           <p className="text-lg opacity-80 mb-10">
-            سجّل الآن وانضم إلى عائلة الدلافين!
+            سجّل الآن وانضم إلى عائلة النجوم!
           </p>
           <Button
             size="lg"
