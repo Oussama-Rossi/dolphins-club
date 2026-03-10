@@ -16,7 +16,7 @@ const Index = () => {
             </svg>
           </div>
           <h1 className="text-4xl md:text-5xl font-black mb-4 drop-shadow-md">
-            نادي الدلافين للسباحة
+            نادي نجوم للسباحة
           </h1>
           <p className="text-xl md:text-2xl font-semibold mb-2 opacity-90">
             فرع حمام دباغ
@@ -59,7 +59,7 @@ const Index = () => {
           📍 حمام دباغ، ولاية قالمة &nbsp;|&nbsp; 📞 0654620449 للتواصل: اتصل بإدارة النادي
         </p>
         <p className="text-muted-foreground text-xs mt-2">
-          © {new Date().getFullYear()} نادي الدلافين للسباحة - جميع الحقوق محفوظة
+          © {new Date().getFullYear()} نادي نجوم للسباحة - جميع الحقوق محفوظة
         </p>
       </footer>
     </div>
