@@ -51,7 +51,7 @@ const Register = () => {
             </div>
 
             <div className="header-center">
-              <h1 className="club-name">نادي الدلافين للسباحة</h1>
+              <h1 className="club-name">نادي نجوم للسباحة</h1>
               <div className="club-branch">فرع حمام دباغ</div>
               <div className="form-type">استمارة تسجيل / انخراط</div>
             </div>
